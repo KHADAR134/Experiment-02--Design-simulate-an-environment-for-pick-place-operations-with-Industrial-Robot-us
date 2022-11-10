@@ -1,12 +1,10 @@
-# Experiment-04-Design-simulate-an--environment-for-pick-place-operations-with-industrial-robot-us
+# Experiment-04-Design-simulate-an-environment-for-pick-place-operations-with-industrial-robot-us
 ## AIM: 
 To Design & simulate an environment for pick & place operations with Industrial Robot using Robo DK software
 ### COMPONENTS REQUIRED:
 1.	RoboDK
-
 ### THEORY: 
-
- Types of pick and place robots
+Types of pick and place robots
 There are several pick and place robot types and components, including:
 
 Robotic arm – Robotic arms are the most common type of pick and place robots. A 5-axis robotic arm robot can be used for standard pick and place applications where objects are picked up and moved to other locations in a single plane. A 6-axis robotic arm robot is used for more complex applications, such as when objects must be twisted or re-oriented before being placed in another location.
